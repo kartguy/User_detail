@@ -1,0 +1,23 @@
+
+function now() { [native code] } : GET : /users
+function now() { [native code] } : GET : /users
+function now() { [native code] } : GET : /users
+function now() { [native code] } : GET : /users
+function now() { [native code] } : GET : /users
+function now() { [native code] } : GET : /api/users
+function now() { [native code] } : GET : /api/users
+function now() { [native code] } : GET : /api/users
+function now() { [native code] } : GET : /api/users
+function now() { [native code] } : GET : /api/users
+function now() { [native code] } : GET : /api/users
+function now() { [native code] } : GET : /api/users
+function now() { [native code] } : GET : /api/users
+function now() { [native code] } : GET : /api/users
+function now() { [native code] } : GET : /api/users
+function now() { [native code] } : GET : /api/users
+function now() { [native code] } : GET : /api/users
+function now() { [native code] } : GET : /api/users/652d1d45a47622b399f2dd82
+function now() { [native code] } : POST : /api/users
+function now() { [native code] } : GET : /api/users
+function now() { [native code] } : GET : /api/users
+function now() { [native code] } : DELETE : /api/users/652d1dce8f003b75516eebce
